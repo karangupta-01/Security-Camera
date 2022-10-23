@@ -17,13 +17,17 @@ In line 46 you need to input the name of the application you want to use as the 
 Download the below mentioned modules for the program to work:
 
 a) cv2
+    
     pip install opencv-python
 
 b) numpy
+    
     pip install numpy
 
 c) pyautogui
+    
     pip install pyautogui
 
 d) wmi
+    
     pip install wmi
